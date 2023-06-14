@@ -1,0 +1,20 @@
+﻿'ĐỀ MẪU.exe' (Win32): Loaded 'D:\KTLT\TGK\ĐỀ MẪU\Debug\ĐỀ MẪU.exe'. Symbols loaded.
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\apphelp.dll'. 
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2cbc has exited with code 0 (0x0).
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sechost.dll'. 
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\sspicli.dll'. 
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\cryptbase.dll'. 
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\bcryptprimitives.dll'. 
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'ĐỀ MẪU.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+The thread 0x1578 has exited with code 0 (0x0).
+The thread 0x1d94 has exited with code 0 (0x0).
+The thread 0x3704 has exited with code 0 (0x0).
+The program '[11996] ĐỀ MẪU.exe' has exited with code 0 (0x0).
